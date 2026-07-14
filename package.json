@@ -1,0 +1,12 @@
+{
+  "name": "pluhshooter-backend",
+  "version": "1.0.0",
+  "description": "WebSocket multiplayer backend for PluhShooter",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
